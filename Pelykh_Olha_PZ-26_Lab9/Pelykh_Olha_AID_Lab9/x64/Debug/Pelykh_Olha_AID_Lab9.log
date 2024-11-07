@@ -1,0 +1,4 @@
+﻿  Source.cpp
+G:\shit(c++)\Pelykh_Olha_AID_Lab9\Pelykh_Olha_AID_Lab9\Source.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\shit(c++)\Pelykh_Olha_AID_Lab9\Pelykh_Olha_AID_Lab9\Source.cpp(22,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Pelykh_Olha_AID_Lab9.vcxproj -> G:\shit(c++)\Pelykh_Olha_AID_Lab9\x64\Debug\Pelykh_Olha_AID_Lab9.exe
