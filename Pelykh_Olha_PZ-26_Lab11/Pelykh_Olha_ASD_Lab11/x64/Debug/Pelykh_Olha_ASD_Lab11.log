@@ -1,0 +1,4 @@
+﻿  Source.cpp
+G:\shit(c++)\Pelykh_Olha_ASD_Lab11\Pelykh_Olha_ASD_Lab11\Source.cpp(20,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\shit(c++)\Pelykh_Olha_ASD_Lab11\Pelykh_Olha_ASD_Lab11\Source.cpp(21,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Pelykh_Olha_ASD_Lab11.vcxproj -> G:\shit(c++)\Pelykh_Olha_ASD_Lab11\x64\Debug\Pelykh_Olha_ASD_Lab11.exe
